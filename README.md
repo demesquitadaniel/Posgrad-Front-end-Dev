@@ -1,3 +1,3 @@
 # Posgrad-Front-end-Dev
-Fron-end Postgraduation Codes
+Front-end Postgraduation Codes
 Updated daily as the classes go on!
